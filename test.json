@@ -13,7 +13,6 @@
 {
 "name": "YouTube",
 "bundleIdentifier": "com.google.ios.youtube",
-"marketplaceID": "",
 "developerName": "Y",
 "subtitle": "YTPlus",
 "localizedDescription": "YTPlus",
@@ -27,7 +26,6 @@
 "downloadURL": "https://github.com/Dohlynx/YTLite/releases/download/YTPlus/YouTubePlus_5.2b1.ipa",
 "size": 122900000,
 "version": "20.26.7",
-"buildVersion": null,
 "date": "2025-07-12T20:01:00+09:00",
 "localizedDescription": null,
 "minOSVersion": null
