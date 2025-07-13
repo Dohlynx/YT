@@ -1,8 +1,9 @@
 {
   "name": "YouTube",
+  "identifier": "com.ytplus.source",
+  "iconURL": "https://i.imgur.com/T1EpgjT.png",
   "subtitle": "YTPlus",
   "description": "YTPlus",
-  "iconURL": "https://i.imgur.com/T1EpgjT.png",
   "apps": [
     {
       "name": "YouTube",
