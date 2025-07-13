@@ -1,9 +1,11 @@
 {
   "name": "YouTube",
-  "identifier": "com.ytplus.source",
   "iconURL": "https://i.imgur.com/T1EpgjT.png",
   "subtitle": "YTPlus",
   "description": "YTPlus",
+  "featuredApps": [
+    "com.google.ios.youtube"
+  ],
   "apps": [
     {
       "name": "YouTube",
