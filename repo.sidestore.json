@@ -17,6 +17,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "downloadURL": "https://github.com/Dohlynx/YT/releases/download/v20.30.5/YouTubePlus_5.2b2.ipa",
+          "size": 123700000,
+          "version": "20.30.5",
+          "buildVersion": "5.2b2",
+          "date": "2025-07-30T11:28:00+09:00",
+          "localizedDescription": "YTPlus",
+          "minOSVersion": null
+        },
+        {
           "downloadURL": "https://github.com/Dohlynx/YT/releases/download/YT/YouTubePlus_5.2b1.ipa",
           "size": 122900000,
           "version": "20.26.7",
